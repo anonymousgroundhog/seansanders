@@ -4,17 +4,26 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me at spsander@buffalo.edu
 
+---
+
 <!---
 seansanders/seansanders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Current Research Repositories:
+
+- HICSS 2022: [Zen Click Fraud Detection Framework](https://github.com/SeanSandersPersonal/Zen-Click-Fraud-Detection-Framework)
+ <br />
+ 
+---
 
 ### Connect with me:
 [<img align="left" alt="Sean Sanders Website | WordPress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][website]
 [<img align="left" alt="Sean Sanders Google Scholar | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][googlescholar]
 <br />
+
 ---
-<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -40,3 +49,4 @@ You can click the Preview link to take a look at your changes.
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[Zen-Click-Fraud-Detection-Framework]: https://github.com/SeanSandersPersonal/Zen-Click-Fraud-Detection-Framework
